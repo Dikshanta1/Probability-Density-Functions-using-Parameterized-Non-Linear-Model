@@ -108,3 +108,8 @@ These parameters define the final probability density function based on
 the transformed NO2 data.
 
 ------------------------------------------------------------------------
+
+## License
+
+This project is licensed under the MIT License.
+
